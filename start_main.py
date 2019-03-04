@@ -23,7 +23,6 @@ def start(question = ''):
     question = "What is the capital of Germany ?"
     current_file = os.getcwd()
     output_dir = current_file+ "\\outputModel"
-    print("OS ",output_dir)
     
     #Module 1 = Entity Recognition and Entity Linking
     entity_name, entity_link, relation = getEntity_Link(output_dir, question)
