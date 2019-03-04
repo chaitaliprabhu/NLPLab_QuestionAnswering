@@ -51,8 +51,9 @@ def getSuggestiveQuestions(subject,predicate,obj_link,direction):
    
         for i in range(len(predicted_ids[0])):
             x = predicted_ids[0,i]
+            if (x.item(0) == 1):
+                break
             predicted_question = predicted_question + word_vocab[x.item(0)] + " "
-        
-        predicated_question = predicted_question + " ?"
-        return predicated_question
+        predicted_question = predicted_question + "?"
+        return predicted_question
 
