@@ -9,7 +9,7 @@ class Data:
     class acts as a convenient data feeder for few shots learning
     """
 
-    def __init__(self, datapath=None, seed=3, remove_unk=False):
+    def __init__(self, seed=3, remove_unk=False):
         self.remove_unk = remove_unk
         np.random.seed(seed)
         # loading vocab
