@@ -8,7 +8,7 @@ import numpy as np
 from pathlib import Path
 import os
 
-def getSuggestiveQuestions(subject,predicate,object,direction):
+def getSuggestiveQuestions(subject,predicate,obj_link,direction):
 
 ###########################
 # Loading Data And Config #
@@ -37,7 +37,7 @@ def getSuggestiveQuestions(subject,predicate,object,direction):
         
         sub = entity_vocab.token2id[subject]
         pred = predicate_vocab.token2id[predicate]
-        obj = entity_vocab.token2id[object]
+        obj = entity_vocab.token2id[obj_link]
    
         encoder_triples_inputs = np.array([[sub,pred,obj]])
         
