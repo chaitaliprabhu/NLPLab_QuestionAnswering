@@ -54,5 +54,5 @@ for item in questions:
         pred_Label = getLabel(predLabelSearchLink)
         df.loc[i] = [question, sub_Label, subject, pred_Label, pred]
         i += 1
-store = pd.HDFStore('questions.h5')
+store = pd.HDFStore('Task2/questions.h5')
 store['df'] = df 
