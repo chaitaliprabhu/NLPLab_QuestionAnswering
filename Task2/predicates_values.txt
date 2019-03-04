@@ -1,0 +1,445 @@
+distributor,Y is the Z of X.
+location, Y is the Z of X.
+birth place, Y is the Z of X.
+birth date, Y is the Z of X.
+thumbnail, Y is the Z of X.
+home town, Y is the Z of X.
+producer, Y is the Z of X.
+language, Y is the Z of X.
+place of military conflict, Y is the Z in X.
+battle, The Z of X was Y.
+position, The Z of X is Y.
+is part of, Y Z X.
+country, The Z of X is Y.
+city, The Z of X is Y.
+state, The Z of X is Y.
+region, The Z of X is Y.
+located in area, X is Z Y.
+nationality, Y is the Z of X.
+genre, The Z of X is Y.
+type, The Z of X is Y.
+gender, The Z of X is Y.
+influenced by, Y is Z X.
+occupation, Y is the Z of X.
+spoken in, Y is Z X.
+class, The Z of X is Y.
+performer, Y is the Z in X.
+author, Y is the Z of X.
+notable work, Y is the Z of X.
+cinematography, The Z of X is Y.
+family, The Z of X is Y.
+time zone, Y is the Z of X.
+film director, Y is the Z of X.
+music composer, Y is the Z of X.
+writer, Y is the Z of X.
+industry, Y is the Z of X.
+ideology, The Z of X is Y.
+manufacturer, Y is the Z of X.
+record label, Y is the Z of X.
+literary genre, The Z of X is Y.
+influenced, Y is Z by X.
+death cause, Y is the Z of X.
+instrument, The Z of X is Y.
+parent, Y is the Z of X.
+programme format, Y is the Z of X.
+death place, Y is the Z of X.
+death date, Y is the Z of X.
+series, The Z of X is Y.
+religion, The Z of X is Y.
+child, Y is the Z of X.
+citizenship, Y is the Z of X.
+programming language, Y is the Z of X.
+developer, Y is the Z of X.
+headquarter, Y is the Z of X.
+province, Y is the Z of X.
+creator (agent), Y is the Z of X.
+publisher, Y is the Z of X.
+mountain range, The Z of X is Y.
+foundation place, Y is the Z of X.
+field, The Z of X is Y.
+owner, Y is the Z of X.
+ethnicity, Y is the Z of X.
+district, Y is the Z in X.
+architectural style, Y is the Z of X.
+broadcast area, Y is the Z of X.
+editing
+movement, The Z of X is Y. 
+license, The Z of X is Y.
+crosses
+resting place, Y is the Z of X.
+weight (g), Y is the Z of X.
+founded by, X is Z Y.
+river mouth, Y is the Z of X.
+outflow, The Z of X is Y.
+successor, Y is the Z of X.
+era, The Z of X is Y.
+hub airport, Y is the Z of X.
+doctoral advisor, Y is the Z of X.
+architect, Y is the Z of X.
+subsequent work, Y is the Z of X.
+governing body, Y is the Z of X.
+source country, Y is the Z of X.
+coach, Y is the Z of X.
+musical artist, The Z in X is Y.
+executive producer, Y is the Z of X.
+active years, Y are the Z of X.
+active years end date, Y is the Z of X.
+actor, Y is the Z in X.
+administrator, Y is the Z of X.
+airline, Y is the Z of X.
+airport, Y is the Z of X.
+album, Y is the Z of X.
+allegiance, Y is the Z of X.
+alliance, Y is the Z of X.
+alma mater, Y is the Z of X.
+alumni, Y is the Z of X.
+anatomical structure, Y is the Z of X.
+annual temperature (K), Y is the Z of X.
+anthem, Y is the Z of X.
+archipelago, Y is the Z of X.
+area (m2), Y is the Z of X.
+area, Y is the Z of X.
+area code, Y is the Z of X.
+area land (m2), Y is the Z of X.
+area of catchment (m2), Y is the Z of X.
+area total (m2), Y is the Z of X.
+area urban (m2), Y is the Z of X.
+area water (m2), Y is the Z of X.
+arrondissement, The Z of X is Y.
+artery, The Z of X is Y.
+artist, Y is the Z of X.
+a side, The Z of X is Y.
+assets ($), The Z of X are Y.
+associated musical artist, Y is the Z with X.
+association of local government
+astronaut, Y is the Z in X.
+athlete, Y is the Z in X.
+athletics, The Z in X are Y.
+award, X has won the Z Y.
+background, The Z of X is Y.
+band, The Z of X is Y.
+Band, The Z of X is Y.
+baseball player, Y is the Z of X.
+basketball player, Y is the Z of X.
+binomial, Y is the Z of X.
+body style, Y is the Z of X.
+boiling point (K), Y is the Z of X.
+bone, Y is the Z of X.
+book, Y is the Z of X.
+boxer, Y is the Z in X.
+brain, Y is the Z of X.
+bridge, Y is the Z of X.
+British royalty, Y is the Z of X.
+b side, Y is the Z of X.
+budget ($), Y is the Z of X.
+building, Y is the Z in X.
+call sign meaning, Y is the Z of X.
+campus, Y is the Z of X.
+capital, Y is the Z of X.
+cardinal, Y is the Z of X.
+career points, Y are the Z of X.
+causalties, The Z in X were Y.
+cave, The Z of X is Y.
+ceeb
+celebrity, Y is the Z in X.
+chairman, Y is the Z of X.
+chancellor, Y is the Z of X.
+channel, Y is the Z of X.
+chaplain, Y is the Z of X.
+chemical compound, Y is the Z of X.
+Christian Bishop, Y is the Z of X.
+chromosome, Y is the Z of X.
+circulation, Y is the Z of X.
+cleric, Y is the Z of X.
+closed, Y is Z on/at X.
+college, Y is the Z of X.
+college coach, Y is the Z of X.
+combatant, Y is the Z of X.
+comedian, Y is the Z in X.
+comics creator, Y is the Z of X.
+commander, Y is the Z of X.
+commune, Y is the Z of X.
+company, Y is the Z of X.
+compiler, Y is the Z of X.
+component, Y is the Z of X.
+composer, Y is the Z of X.
+congressman, Y is a Z in X.
+convention, Y is the Z of X.
+cost ($), Y is the Z of X.
+county, Y is the Z of X.
+cricketer, Y is a Z of X.
+criminal, Y is the Z of X.
+currency, Y is the Z of X.
+current team, Y is the Z of X.
+team, X plays for Z Y.
+custodian, Y is the Z of X.
+cyclist, Y is the Z of X.
+date, Y is the Z of X.
+date of burial, Y is the Z of X.
+day, Y is the Z of X.
+demonym, Y is the Z of X.
+derivative, Y is the Z of X.
+designer, Y is the Z of X.
+discharge (m³/s)
+discovery date, Y is the Z of X.
+discoverer, Y is the Z of X.
+disease, Y is the Z of X.
+distributing company, Y is the Z of X.
+Wikipage disambiguates, X Z to Y.
+Wikipage redirect, X redirects to Y.
+Link from a Wikipage to an external page, X is a Z Y.
+Link from a Wikipage to another Wikipage, X is a Z Y.
+Wikipage revision ID, Y is the Z of X.
+Wikipage page ID, Y is the Z of X.
+division, Y is the Z of X.
+editing, Y did the Z of X.
+editor, Y is the Z of X.
+education, Y is the Z of X.
+educational institution, Y is the Z of X.
+embryology, Y is the Z of X.
+employer, Y is the Z of X.
+endowment ($), Y is the Z of X.
+engine, Y is the Z of X.
+engineer, Y is the Z of X.
+EntrezGene, Y is the Z of X.
+equity ($), Y is the Z of X.
+Established, Y was Z by X.
+ethnic group, Y is the Z of X.
+Eurovision song contest entry, Y is the Z of X.
+event, Y is the Z of X.
+fastest lap, Y is the Z of X.
+father, Y is the Z of X.
+federal state, Y is the Z of X.
+fees ($), Y is the Z of X.
+figure skater, Y is the Z of X.
+movie, Y is the Z of X.
+film festival, Y is the Z of X.
+first race, Y is the Z of X.
+first win, Y is the Z of X.
+floor area (m2), Y is the Z of X.
+format (object), Y is the Z of X.
+former call sign, Y is the Z of X.
+former team, Y is the Z of X.
+Formula One racer, Y is the Z of X.
+founding date, Y is the Z of X.
+founding year, Y is the Z of X.
+frequency (Hz), Y is the Z of X.
+frozen, Y is Z in X.
+Gaelic games player, Y is the Z of X.
+games, Y are the Z of X.
+genus, Y is the Z of X.
+Grand Prix, Y is the Z of X.
+growing grape, Y is the Z of X.
+guest, Y is the Z of X.
+head, Y is the Z of X.
+heir, Y is the Z of X.
+HGNCid, Y is the Z of X.
+historic place, Y is the Z of X.
+hockey team, Y is the Z of X.
+hospital, Y is the Z of X.
+house, Y is the Z of X.
+ICD10, Y is the Z of X.
+ICD9, Y is the Z of X.
+ICDO, Y is the Z of X.
+ice hockey player, Y is the Z of X.
+id, Y is the Z of X.
+inflow, Y is the Z of X.
+infrastructure, Y is the Z of X.
+innervates, Y is the Z of X.
+interest, Y is the Z of X.
+introduced, X Z Y.
+introduction date, Y is the Z of X.
+ISBN, Y is the Z of X.
+island, Y is the Z of X.
+issn, Y is the Z of X.
+iucn category, Y is the Z of X.
+joint community, Y is the Z of X.
+journalist, Y is a Z in X.
+judge, Y is the Z in X.
+key person, Y is a Z in X.
+kingdom, Y is the Z of X.
+known for, X is Z Y.
+lake, Y is a Z of X.
+largest city, Y is the Z of X.
+largest settlement, Y is the Z in X.
+last season, Y is the Z of X.
+latest preview date, Y is the Z of X.
+latest preview version, Y is the Z of X.
+leader, Y is the Z of X.
+leader name, Y is the Z of X.
+leader title, Y is the Z of X.
+league, Y is the Z of X.
+legislature, Y is the Z of X.
+lighthouse, Y is the Z of X.
+longtype, Y is the Z of X.
+lunar crater, Y is the Z of X.
+lymph, Y is the Z of X.
+lyrics, Y are the Z of X.
+magazine, Y is the Z of X.
+major shrine, Y is the Z of X.
+manager title, Y is the Z of X.
+mass (g), Y is the Z of X.
+maximum discharge (m³/s), Y is the Z of X.
+melting point (K), Y is the Z of X.
+military conflict, Y is the Z of X.
+military person, Y is the Z of X.
+military unit, Y is the Z of X.
+mission, Y is the Z of X.
+mixed martial arts event, Y is the Z of X.
+model, Y is the Z of X.
+monarch, Y is the Z of X.
+motto, Y is the Z of X.
+mountain, Y is the Z of X.
+mouth mountain, Y is the Z of X.
+mouth place, Y is the Z of X.
+municipality, Y is the Z of X.
+musical, Y is the Z of X.
+musical work, Y is the Z of X.
+music by, Y is the Z X.
+music festival, Y is the Z of X.
+music genre, Y is the Z of X.
+music subgenre, Y is the Z of X.
+nascar driver, Y is the Z of X.
+National Olympic Committee, Y is the Z of X.
+nerve, Y is the Z of X.
+network, Y is the Z of X.
+networth ($), Y is the Z of X.
+newspaper, Y is the Z of X.
+non-profit organisation, Y is the Z of X.
+notable wine, Y is the Z of X.
+notes, Y are the Z of X.
+number built, Y is the Z of X.
+number of employees, Y are the Z in X.
+number of vineyards, Y are the Z in X.
+number of visitors, Y is the Z to X.
+office holder, Y is the Z of X.
+officer in charge, Y is the Z of X.
+olympic result, Y is the Z of X.
+olympics, Y is the Z of X.
+OMIM id, Y is the Z of X.
+opening film, Y is the Z of X.
+origin, Y is the Z of X.
+other, Y is the Z of X.
+other name, Y is the Z of X.
+owning company, Y is the Z of X.
+parent company, Y is the Z of X.
+park, Y is the Z of X.
+party, Y is the Z of X.
+percentage of area water, Y is the Z of X.
+philosopher, Y is the Z of X.
+photographer, Y is the Z of X.
+phylum, Y is the Z of X.
+place, Y is the Z of X.
+place of burial, Y is the Z of X.
+planet, Y is the Z of X.
+Playboy Playmate, Y is the Z of X.
+plays, X Z Y.
+poker player, Y is the Z of X.
+politician, Y is the Z of X.
+pope, Y is the Z of X.
+populated place, Y is the Z of X.
+population as of, Y is the Z of X.
+population density (/sqkm), Y is the Z of X.
+population metro density (/sqkm), Y is the Z of X.
+population total, Y is the Z of X.
+population urban density (/sqkm), Y is the Z of X.
+postal code, Y is the Z of X.
+predecessor, Y is the Z of X.
+presenter, Y is the Z of X.
+president, Y is the Z of X.
+previous work, Y is the Z of X.
+prime minister, Y is the Z of X.
+principal, Y is the Z of X.
+product, Y is the Z of X.
+program cost ($), Y is the Z of X.
+protected area, Y is the Z of X.
+protein, Y is the Z of X.
+provost, Y is the Z of X.
+PubChem, Y is the Z of X.
+race, Y is the Z of X.
+races, Y are the Z of X.
+radio station, Y is the Z of X.
+rank, Y is the Z of X.
+ranking, Y is the Z of X.
+CalculationNeeds, Y is the Z of X.
+rector, Y is the Z of X.
+RefSeq, Y is the Z of X.
+regional language, Y is the Z of X.
+related, Y is the Z of X.
+reopened, Y is the Z of X.
+result, Y is the Z of X.
+rival, Y is the Z of X.
+river, Y is the Z of X.
+road, Y is the Z of X.
+royal anthem, Y is the Z of X.
+runtime (s), Y is the Z of X.
+saint, Y is the Z of X.
+school, Y is the Z of X.
+scientist, Y is the Z of X.
+season, Y is the Z of X.
+senator, Y is the Z of X.
+shopping mall, Y is the Z of X.
+similar, Y is Z to X.
+single, Y is the Z of X.
+sister station, Y is the Z of X.
+Site of Special Scientific Interest, Y is the Z of X.
+ski area, Y is the Z of X.
+skyscraper, Y is the Z of X.
+slogan, Y is the Z of X.
+soccer club, Y is the Z of X.
+soccer player, Y is the Z of X.
+software, Y is the Z of X.
+department, Y is the Z of X.
+song, Y is the Z of X.
+source mountain, Y is the Z of X.
+source place, Y is the Z of X.
+species, Y is the Z of X.
+sport, Y is the Z of X.
+sports team, Y is the Z of X.
+spouse, Y is the Z of X.
+stadium, Y is the Z of X.
+staff, Y is the Z of X.
+starring, X stars Y.
+status, Y is the Z of X.
+stylistic origin, Y is the Z of X.
+summer temperature (K), Y is the Z of X.
+supplies, Y Z X.
+Supreme Court of the United States case, Y is the Z of X.
+Symbol, Y is the Z of X.
+television episode, Y is the Z of X.
+television show, Y is the Z of X.
+temperature (K), Y is the Z of X.
+tenant, Y is the Z of X.
+tennis player, Y is the Z of X.
+territory, Y is the Z of X.
+testaverage, Y is the Z of X.
+number of students, The Z in X are Y.
+title, Y is the Z of X.
+track number, Y is the Z of X.
+trade union, Y is the Z of X.
+training, Y is the Z of X.
+translator, Y is the Z of X.
+trustee, Y is the Z of X.
+UniProt, Y is the Z of X.
+unit cost ($), Y is the Z of X.
+university, Y is the Z of X.
+varietals, Y is the Z of X.
+vice chancellor, Y is the Z of X.
+vice president, Y is the Z of X.
+video game, Y is the Z of X.
+voice actor, Y is the Z of X.
+voice type, Y is the Z of X.
+watershed (m2)
+website, Y is the Z of X.
+wine region, Y is the Z of X.
+wine year, Y is the Z of X.
+wins, Y Z X.
+winter temperature (K), Y is the Z of X.
+Women's Tennis Association tournament, Y is the Z of X.
+work, Y is the Z of X.
+World Heritage Site, Y is the Z of X.
+wrestler, Y is the Z of X.
+wrestling event, Y is the Z of X.
+has abstract, Y is the Z of X.
+name, Y is the Z of X.
+activity, Y is the Z of X.
