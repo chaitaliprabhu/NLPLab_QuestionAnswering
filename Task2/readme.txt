@@ -1,3 +1,5 @@
+This modules deals with detecting the direction and relation in the question and retrieving answer for the detected Entity and Relation by querying over DBpedia. Also, returning these answers as sentences.
+
 Files and their content
 
 train.h5: contains the questions and their direction for each predicate retrieved from the training file.
