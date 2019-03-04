@@ -5,5 +5,4 @@ Answering simple questions and generating suggestive questions based on the rele
 # Task 3: 
 # Task 4: Suggestive Question Generation
 
-Steps:
-1) Save the outputmodel folder and pass the path as an argument in the start_main.py file
+Run the script - front_end.py
