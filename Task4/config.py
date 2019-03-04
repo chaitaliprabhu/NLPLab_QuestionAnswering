@@ -8,9 +8,7 @@ class Config():
 
 # assert mode in ["QG", "KBEMBED"]
 
-        current_file = Path().resolve().parent
-        parent_of_parent_dir = os.path.join(current_file, '..\\')
-        self.CHECKPOINTS_PATH = os.path.join(str(parent_of_parent_dir)+"\\Task4\\checkpoints\\Triples", "triples")
+        self.CHECKPOINTS_PATH = os.path.join(".\checkpoints\Triples", "triples")
 
         # Triples:
         self.TRIPLELENGTH = 3  # (s,p,o) # make 4 to extend to quads
