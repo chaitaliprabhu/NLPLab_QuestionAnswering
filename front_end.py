@@ -35,7 +35,7 @@ class DemoApp(App):
     def get_ans(self, instance):
         start(self.txt_question.text)
         self.txt_answer.text = getAnswerStr().strip()
-        self.txt_sugg_question.text = getQues.strip()
+        self.txt_sugg_question.text = str(getQues()).strip()
  
 if __name__ == '__main__':
     DemoApp().run()
