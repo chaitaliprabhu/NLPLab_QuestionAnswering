@@ -4,7 +4,6 @@ Created on Sat Mar  2 14:36:58 2019
 
 @author: Chaitali
 """
-import os
 from Task1.final_test_question import getEntity_Link
 from Task2.question_answering import getRelation_and_Answer
 from Task4.question_generation import getSuggestiveQuestions
@@ -17,11 +16,9 @@ from Task3.Find_Entity_Index import getEntityRank
 from Task3.Get_Predicates import getPred
 from Task3.CosineSimilarity import getCosineSimilarity
 
-def start(question = ''):
+def start( question = '', output_dir = ''):
     global ans
     global ques
-    current_file = os.getcwd()
-    output_dir = current_file+ "\\outputModel"
     
     #Module 1 = Entity Recognition and Entity Linking
     entity_name, entity_link, relation = getEntity_Link(output_dir, question)
@@ -50,7 +47,7 @@ def start(question = ''):
     #Module 4 = Suggestive Question Generation
     object_label, object_link = getAnswer(highest_entity_rank, NewPred, DirectionPred)
     suggestiveQuestion = getSuggestiveQuestions(highest_entity_rank, NewPred, object_link, DirectionPred)
-    print("Suggestive Question = " + suggestiveQuestion)
+    print("Suggestive Question = " , suggestiveQuestion)
     ques = suggestiveQuestion
     
 def getAnswerStr():
