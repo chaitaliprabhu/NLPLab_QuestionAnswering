@@ -1,16 +1,16 @@
 Please download the model from https://drive.google.com/file/d/1oySAMZsQewBDTlUDbZz7RnhuS0P0VHAY/view?usp=sharing under ./checkpoints
 
+This module generates question from facts or triples, which consists of Subject, Predicate and Object, and Direction, which is either forward or backward.
 
+For Training the model use the snippet below:
 
-Training:
+python run.py -epochs 20 -min 50 -datapath ./data/final -fold 1
 
-python run.py -epochs 20 -min 50 -datapath ./data/final -fold 1\
+For Testing the model:
 
-Test:
+Call generateSuggestiveQuestion() function from question_generation.py
 
-Call generateSuggestiveQuestion() function in question_generation.py
-
-Pretrained model: 
+The Pretrained models should be saved in: 
 
 ./checkpoints
 
