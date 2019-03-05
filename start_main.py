@@ -20,7 +20,6 @@ from Task3.CosineSimilarity import getCosineSimilarity
 def start(question = ''):
     global ans
     global ques
-    question = "What is the capital of Germany ?"
     current_file = os.getcwd()
     output_dir = current_file+ "\\outputModel"
     
