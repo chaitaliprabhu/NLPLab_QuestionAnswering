@@ -55,8 +55,8 @@ def getSuggestiveQuestions(subject,predicate,obj_link,direction):
             if (x.item(0) == 1):
                 break
             predicted_question = predicted_question + word_vocab[x.item(0)] + " "
-        predicted_question = predicted_question + "?"
-        return str(predicted_question)
+            predicted_question = predicted_question + "?"
+            return str(predicted_question)
         except Exception:
              return "Entity or Predicate out of vocabulary"
 
