@@ -8,8 +8,8 @@ class Config():
 
 # assert mode in ["QG", "KBEMBED"]
 
-        my_path = os.path.abspath(os.path.dirname(__file__))
-        self.CHECKPOINTS_PATH = os.path.join("../Task4/checkpoints/Triples", "triples")
+        current_file = Path().resolve()
+        self.CHECKPOINTS_PATH = os.path.join(str(current_file)+"/Task4/checkpoints/Triples", "triples")
 
 
         # Triples:
@@ -20,7 +20,7 @@ class Config():
 
         #knowledge base embeddings training params
         #if mode == "KBEMBED":
-        self.KB_EMBED_VOCAB_PATH = os.path.join(my_path, "../Task4/data")
+        self.KB_EMBED_VOCAB_PATH = str(current_file)+"/Task4/data/"
 
 #counting length of entity and properties vocab
 
