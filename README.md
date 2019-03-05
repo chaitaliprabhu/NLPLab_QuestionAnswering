@@ -5,4 +5,5 @@ Answering simple questions and generating suggestive questions based on the rele
 # Task 3: Semantic Coherence Calculation
 # Task 4: Suggestive Question Generation
 
-Run the script - front_end.py
+# Run the script - Including Front End
+front_end.py
