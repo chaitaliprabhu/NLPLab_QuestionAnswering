@@ -38,7 +38,7 @@ def getSuggestiveQuestions(subject,predicate,obj_link,direction):
         try:
             sub = entity_vocab.token2id[subject]
             pred = predicate_vocab.token2id[predicate]
-            obj = entity_vocab.token2id[object_name[0]]
+            obj = entity_vocab.token2id[obj_link[0]]
        
             encoder_triples_inputs = np.array([[sub,pred,obj]])
             
