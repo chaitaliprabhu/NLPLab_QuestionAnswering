@@ -58,7 +58,6 @@ def getPredicates(link,direction):
 
 def getBestPredicate(predDict, ENTITY_OTHER):
     predicate = ""
-    predicate_link = ""
     predicate = getSimilarityFromModel(predDict, ENTITY_OTHER)
     return predicate
     
@@ -70,6 +69,8 @@ def getAnswer(sub_Link, pred_Link, direction = ""):
     query = ""
     if(direction == 'forward'):
         query = "PREFIX dbpedia: <" +sub_Link+">  PREFIX dbschema: <" +pred_Link+">  SELECT DISTINCT ?answer WHERE{ dbpedia: dbschema: ?answer.  }"
+    else:
+        query = "PREFIX dbpedia: <" +sub_Link+">  PREFIX dbschema: <" +pred_Link+">  SELECT DISTINCT ?answer WHERE{ ?answer dbschema: dbpedia: . }"
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
     sparql.setQuery(query)
     answers = []
