@@ -6,4 +6,4 @@ Answering simple questions and generating suggestive questions based on the rele
 # Task 4: Suggestive Question Generation
 Please download the model from https://drive.google.com/file/d/1oySAMZsQewBDTlUDbZz7RnhuS0P0VHAY/view?usp=sharing under ./Task4/checkpoints
 # Run the script - Including Front End
-front_end.py
+From the project folder: run the command 'python front_end.py'
