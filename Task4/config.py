@@ -25,10 +25,10 @@ class Config():
 
 #counting length of entity and properties vocab
 
-        with open(os.path.join(self.KB_EMBED_VOCAB_PATH, "entity.vocab")) as f:
+        with open(os.path.join(self.KB_EMBED_VOCAB_PATH, "entity.vocab"), encoding='utf-8') as f:
             for ec, l in enumerate(f):
                 pass
-        with open(os.path.join(self.KB_EMBED_VOCAB_PATH, "predicate.vocab")) as f:
+        with open(os.path.join(self.KB_EMBED_VOCAB_PATH, "predicate.vocab"), encoding='utf-8') as f:
              for pc, l in enumerate(f):
                 pass
 
