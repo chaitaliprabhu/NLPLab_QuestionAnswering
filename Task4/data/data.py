@@ -15,13 +15,13 @@ class Data:
         
         # loading vocab
         current_file = Path().resolve()
-        #parent_of_parent_dir = os.path.join(current_file, '../')
-        self.word_vocab = Dictionary.load_from_text(str(current_file)+"/Task4/data/word.vocab")
-        self.entity_vocab = Dictionary.load_from_text(str(current_file)+"/Task4/data/entity.vocab")
-        self.predicate_vocab = Dictionary.load_from_text(str(current_file)+"/Task4/data/predicate.vocab")
+        parent_of_parent_dir = os.path.join(current_file, '../../')
+        self.word_vocab = Dictionary.load_from_text(str(parent_of_parent_dir)+"/Task4/data/word.vocab")
+        self.entity_vocab = Dictionary.load_from_text(str(parent_of_parent_dir)+"/Task4/data/entity.vocab")
+        self.predicate_vocab = Dictionary.load_from_text(str(parent_of_parent_dir)+"/Task4/data/predicate.vocab")
 
         # loading data files names
-        self.datafile =str(current_file)+"/Task4/data/final/train_output.txt"
+        self.datafile =str(parent_of_parent_dir)+"/Task4/data/final/train_output.txt"
         self.data = {}
 
     def read_data(self):
