@@ -39,7 +39,11 @@ def getEntityRank(word1, word2):
             ent_rank2 = item[1]
     if ent_rank1>ent_rank2:
         entity_selected = word1
+        if "/page/" in entity_selected:
+            entity_selected = entity_selected.replace("/page/","/resource/")
         return entity_selected
     else:
         entity_selected = word2
+        if "/page/" in entity_selected:
+            entity_selected = entity_selected.replace("/page/","/resource/")
         return entity_selected   
