@@ -28,12 +28,12 @@ def getSuggestiveQuestions(subject,predicate,obj_link,direction):
     with tf.Session() as sess:
     #if tf.train.checkpoint_exists(tf.train.latest_checkpoint('../checkpoints/')):
         print('reloading the trained model')
-        current_file = Path().resolve().parent
-        parent_of_parent_dir = os.path.join(current_file, '../')
-        word_vocab = Dictionary.load_from_text(str(parent_of_parent_dir)+"/Task4/data/word.vocab")
-        entity_vocab = Dictionary.load_from_text(str(parent_of_parent_dir)+"/Task4/data/entity.vocab")
-        predicate_vocab = Dictionary.load_from_text(str(parent_of_parent_dir)+"/Task4/data/predicate.vocab")
-        model.restore(sess=sess, path=tf.train.latest_checkpoint(str(parent_of_parent_dir)+"/Task4/checkpoints"))
+        current_file = Path().resolve()
+        #parent_of_parent_dir = os.path.join(current_file, '../')
+        word_vocab = Dictionary.load_from_text(str(current_file)+"/Task4/data/word.vocab")
+        entity_vocab = Dictionary.load_from_text(str(current_file)+"/Task4/data/entity.vocab")
+        predicate_vocab = Dictionary.load_from_text(str(current_file)+"/Task4/data/predicate.vocab")
+        model.restore(sess=sess, path=tf.train.latest_checkpoint(str(current_file)+"/Task4/checkpoints"))
         
         try:
             sub = entity_vocab.token2id[subject]
