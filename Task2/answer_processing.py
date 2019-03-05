@@ -82,10 +82,12 @@ def getAnswer(sub_Link, pred_Link, direction = ""):
         for result in results["results"]["bindings"]:
             answer = result["answer"]["value"]
             if answer.find("/") != -1:
-                answer_links.append(result["answer"]["value"])
-                answers.append(getLabel(result["answer"]["value"]))
+                if("/page/" in str(answer)):
+                    answer = answer.replace("/page/","/resource/")
+                answer_links.append(answer)
+                answers.append(getLabel(answer))
             else:
-                answers.append(result["answer"]["value"])
+                answers.append(answer)
             
     except Exception as e:
         print("type error: " + str(e))
