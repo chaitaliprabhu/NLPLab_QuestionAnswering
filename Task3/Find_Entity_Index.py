@@ -15,7 +15,7 @@ def getEntityRank(word1, word2):
     word_value1 = word1.split('/')[-1]
     word_value2 = word2.split('/')[-1]
     current_file = os.getcwd()
-    directoryPath= current_file+'\\Task3\\Entity_ranks'
+    directoryPath= current_file+'/Task3/Entity_ranks'
     os.chdir(directoryPath)
    
     list_ent = []
