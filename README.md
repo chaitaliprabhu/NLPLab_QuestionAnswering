@@ -1,4 +1,5 @@
 # NLPLab_QuestionAnswering
+# SIMPLE QUESTION ANSWERING OVER DBPEDIA AND SUGGESTIVE QUESTION GENERATION
 Answering simple questions and generating suggestive questions based on the relevant entity
 # Task 1: Entity Recognition & Linking
 # Task 2: Relation Detection, Answering Retrieval
