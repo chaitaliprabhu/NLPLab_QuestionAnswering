@@ -15,7 +15,7 @@ from start_main import getAnswerStr, start, getQues
 class DemoApp(App):
     current_file = os.getcwd()
     global output_dir
-    output_dir = current_file+ "\\outputModel"
+    output_dir = current_file+ "/outputModel"
     def build(self):
         self.box = BoxLayout(orientation='vertical', spacing=10)
         self.txt_question = TextInput()
