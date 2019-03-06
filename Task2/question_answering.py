@@ -46,7 +46,7 @@ def getRelation_and_Answer(question = "", noun = "", sub_Link= ""):
         exit("No answer for the question")
     
     answerSentence = ""
-    with open('Task2/predicates_values.txt', 'r') as f:
+    with open('Task2/predicates_values.txt', 'r', encoding = 'UTF-8',errors='ignore') as f:
         lines = f.readlines()
         for line in lines:
             try:
