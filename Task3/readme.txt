@@ -1,0 +1,3 @@
+In this part, we use word embeddings to recognize relation in the question and determine their semantic closeness in the background knowledge. Given two entities and a predicate from the question, the goal of this part is to find the predicate which is semantically closer to the given predicate in the question for the entity which has higher View Counts.
+
+The view counts of all the entities are taken as pre-calculated files. We can store the files containing view counts of the entities in a folder named Entity_ranks and just provide the path to these files while running Find_Entity_Index.py file.
